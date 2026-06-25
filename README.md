@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sous-le-soleil-exactement/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sous Le Soleil Exactement](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sous-le-soleil-exactement/) |
+| **Get License** | [Request Licensing for Sous Le Soleil Exactement](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sous-le-soleil-exactement/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit parisienne, tu brilles comme un joyau
+> Ton corps contre le mien, on a passé l'niveau
+> Sous les néons violets, on perd la notion du temps
+> Viens un peu plus près, mon cœur bat violemment
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
